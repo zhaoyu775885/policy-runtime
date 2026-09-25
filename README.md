@@ -1,5 +1,8 @@
 # policy-runtime
 
+The successor design is [InferPort](docs/inferport-design.md). This is a design
+document; the code and examples below still describe the current implementation.
+
 A minimal client/server runtime for decoupling VLA policies from simulation environments.
 
 ```
